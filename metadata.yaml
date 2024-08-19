@@ -1,5 +1,8 @@
 _repo: From-the-Indus-to-the-Tigris-b-A-narrative-of-a-journey-through-the-countries-of-Balochistan-__74127
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74127-h/images/cover.jpg
 creator:
   author:
     agent_name: Bellew, H. W. (Henry Walter)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57355
     wikipedia: https://en.wikipedia.org/wiki/Henry_Walter_Bellew
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74127#From-the-Indus-to-the-Tigris-b-A-narrative-of-a-journey-through-the-countries-of-Balochistan-_
 gutenberg_issued: '2024-07-25'
 gutenberg_type: Text
 identifiers:
